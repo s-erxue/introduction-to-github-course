@@ -1,2 +1,3 @@
-# introduction-to-github-course
+# Introduction to GitHub
+
 An introduction to Git and GitHub

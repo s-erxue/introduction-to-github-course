@@ -1,9 +1,7 @@
-This is the description we show on the course page [here](https://lab.github.com/s-erxue/introduction-to-github). This first paragraph will be featured at the top of the page so make it great.
-​
+# Introduction to GitHub
 
-​
-Be sure to tell the learner about the technology you are teaching, why they should learn it, how they can use it, and what you will teach them.
-​
+This is an introduction to GitHub assuming you know about Git.
 
+## Prerequisties
 
-Include information on how they can reach you for questions about the content or course. 
+* Git
